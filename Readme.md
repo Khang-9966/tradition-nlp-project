@@ -1,8 +1,8 @@
-* Input
+#Input
 
 Input bao gồm 2 file question.py và database.py
 
-* Output
+#Output
 
 Chứa 4 file:
 
