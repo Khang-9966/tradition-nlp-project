@@ -1,8 +1,8 @@
-#Input#
+# Input #
 
 Input bao gồm 2 file question.py và database.py
 
-#Output#
+# Output #
 
 Chứa 4 file:
 
@@ -14,11 +14,11 @@ output_c.txt: chứa ngữ nghĩa thủ tục của câu hỏi
 
 output_d.txt: chứa câu trả lời cho câu hỏi
 
-##Model gồm: Linked_list ,Stack , Queue, Parser , Các function được thực hiện trong chương trình chính##
+## Model gồm: Linked_list ,Stack , Queue, Parser , Các function được thực hiện trong chương trình chính ##
 
-##Thư viện dùng tokenize là ViTokenizer theo gợi ý của cô: pip install pyvi##
+## Thư viện dùng tokenize là ViTokenizer theo gợi ý của cô: pip install pyvi ##
 
-#Cách thực hiện:#
+# Cách thực hiện: #
 
 Bước 1: Thay đổi question trong file Input/question.py
 
