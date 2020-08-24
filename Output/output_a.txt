@@ -1,0 +1,9 @@
++ Dependency: 
+{'head': 'xe_buýt', 'word': 'nào', 'relationtype': 'nmod'}
+{'head': 'đến', 'word': 'xe_buýt', 'relationtype': 'sub'}
+{'head': 'root', 'word': 'đến', 'relationtype': 'root'}
+{'head': 'đến', 'word': 'thành_phố', 'relationtype': 'loc'}
+{'head': 'thành_phố', 'word': 'huế', 'relationtype': 'nmod'}
+{'head': 'đến', 'word': 'lúc', 'relationtype': 'tmp'}
+{'head': 'lúc', 'word': '2200hr', 'relationtype': 'det'}
+{'head': 'đến', 'word': '?', 'relationtype': 'punct'}

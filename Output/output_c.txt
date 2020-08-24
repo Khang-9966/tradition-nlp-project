@@ -1,0 +1,1 @@
++ Procedural Form: ( FRINT-ALL  ?x ( BUS ?x )    ( ATIME ?x HUE 2200HR)   ) 

@@ -1,0 +1,1 @@
++ Logical Form: WHx : ( & ( BUS x )  ( DEST x ( NAME HUE huế ) )  ( ARRIVE x ( NAME t1 2200HR ) )  ) 
